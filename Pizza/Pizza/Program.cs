@@ -16,7 +16,7 @@ namespace Pizza
             PizzaProcessor(instructions, pizza);
         }
 
-        public static string[] GetInputFilesAndPopulateThem(out int[] headerInstructions)
+        public static char[][] GetInputFilesAndPopulateThem(out int[] headerInstructions)
         {
             string path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"a_example.in");
 
@@ -26,24 +26,31 @@ namespace Pizza
 
             int rows = headerInstructions[0];
             //int lines = headerInstructions[1];
-            //int minOfEachIngredientPerLine = headerInstructions[2];
+            //int minOfEachIngredientPerSlice = headerInstructions[2];
             //int maxCellsPerSlice = headerInstructions[3];
 
-            string[] pizza = new string[rows];
+            char[][] pizza = new char[rows][];
             int i = 0;
 
             foreach (string input in inputTestFile.Skip(1))
             {
-                pizza[i] = input;
+                pizza[i] = input.ToArray();
                 i++;
             }
 
             return pizza;
         }
 
-        public static void PizzaProcessor(int[] instructions, string[] pizza)
+        public static void PizzaProcessor(int[] headerInstructions, char[][] pizza)
         {
-            // Method intentionally left empty.
+            int rows = headerInstructions[0];
+            int lines = headerInstructions[1];
+            int minOfEachIngredientPerSlice = headerInstructions[2];
+            int maxCellsPerSlice = headerInstructions[3];
+
+            foreach (var pizzaSlice in pizza)
+            {
+            }
         }
     }
 }
