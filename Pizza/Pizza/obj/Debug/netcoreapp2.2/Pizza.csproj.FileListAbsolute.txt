@@ -1,0 +1,11 @@
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\bin\Debug\netcoreapp2.2\Pizza.deps.json
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\bin\Debug\netcoreapp2.2\Pizza.runtimeconfig.json
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\bin\Debug\netcoreapp2.2\Pizza.runtimeconfig.dev.json
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\bin\Debug\netcoreapp2.2\Pizza.dll
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\bin\Debug\netcoreapp2.2\Pizza.pdb
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.csprojAssemblyReference.cache
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.AssemblyInfoInputs.cache
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.AssemblyInfo.cs
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.dll
+C:\Users\carlos.miranda.FARFETCH\Source\Repos\Pizza\Pizza\obj\Debug\netcoreapp2.2\Pizza.pdb
